@@ -1,0 +1,14 @@
+BgColor=28,30,32
+ColorA=101,189,171
+ColorB=121,177,227
+ColorC=190,156,231
+ColorForConflict=253,128,123
+CurrentRangeBgColor=37,36,34
+CurrentRangeDiffBgColor=50,45,33
+DiffBgColor=44,45,47
+FgColor=184,183,182
+ManualAlignmentRangeColor=50,45,33
+MidAgeFileColor=207,165,67
+MissingFileColor=184,183,182
+NewestFileColor=158,181,97
+OldestFileColor=253,128,123
