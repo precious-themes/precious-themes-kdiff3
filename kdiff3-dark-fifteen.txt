@@ -1,5 +1,5 @@
 BgColor=35,38,43
-ColorA=65,189,167
+ColorA=66,189,167
 ColorB=102,176,239
 ColorC=195,150,244
 ColorForConflict=255,136,130
